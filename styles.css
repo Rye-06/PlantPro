@@ -1,0 +1,22 @@
+h1 {
+    padding-top: 6rem;
+    text-align: center;
+}
+
+p {
+    font-size: 1.25rem;
+
+}
+
+img {
+    padding-bottom: 1rem;
+}
+
+#results {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#search {
+    padding-top: 1.5rem;
+}
